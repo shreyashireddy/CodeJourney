@@ -1,2 +1,2 @@
 # CodeJourney
-My journey of learning programming and computer science, and building projects.
+My journey of learning programming and computer science.
